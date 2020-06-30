@@ -1,0 +1,119 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+html {
+  font-family: ‘cwTeXYen’, sans-serif;
+  font-weight: 800;
+}
+
+body {
+  background-color: #000;
+}
+
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  background: #fff;
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.G {
+  color: #95A2C0;
+}
+
+.Ftext {
+  font-size: 15px;
+}
+
+.Fstext {
+  font-size: 14px;
+}
+
+.B {
+  font-weight: bold;
+}
+
+.C {
+  text-align: center;
+}
+
+.R {
+  text-align: right;
+}
+
+.T {
+  font-size: 28px;
+  color: #B59A2A;
+}
+
+.ST {
+  font-size: 22px;
+  color: #9A8E5B;
+}
+
+.text {
+  font-size: 12pt;
+  color: #67685A;
+}
+
+.pad {
+  width: 100%;
+  padding-top: 50px;
+}
+
+.pad2 {
+  width: 100%;
+  padding-top: 30px;
+}
+
+.pad3 {
+  width: 100%;
+  padding-top: 7px;
+}
+
+.pad4 {
+  width: 100%;
+  padding-top: 100px;
+}
+
+.ML {
+  margin-left: 15px;
+}
+
+.LH {
+  line-height: 30px;
+}
+
+.LH2 {
+  line-height: 25px;
+}
+
+.LH3 {
+  line-height: 12px;
+}
+
+.BR {
+  border: 1px solid #393F4F;
+}
+
+.black {
+  background-color: black;
+}
+
+.blank {
+  display: none;
+  width: 100%;
+}
+/*# sourceMappingURL=selfproject-HTMLpart.css.map */

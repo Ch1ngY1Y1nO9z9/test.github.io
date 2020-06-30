@@ -1,0 +1,305 @@
+// 第一頁
+
+.gold{
+    color:#B59A2A;
+}
+
+.nav_bar {
+    background-color: white;
+    padding-left: 1%;
+    width:100%;
+}
+
+.nav_bar img {
+    float: left;
+    width: 80px;
+    height: 50px;
+}
+.img{
+    width: 80px;
+    height: 50px;
+}
+
+.nav_bar a {
+    float: left;
+    position: relative;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.playnow {
+    float: right;
+    position: relative;
+    background-color: red;
+    height: 54px;
+
+}
+
+.playnow a {
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.clearfloat {
+    clear: both;
+}
+
+.video_page1 {
+    width:100%;
+    height:100%;
+    position: absolute;
+    top: 54px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    pointer-events: none;
+}
+.Page{
+    width:100%;
+    height:980px;
+}
+
+.BGV{
+    width:100%;
+    height:100%;
+}
+
+
+
+// 第二頁
+
+  .LB{
+      width:100%;
+      height:300px;
+  }
+  .lb01{
+
+      height:100px;
+      margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/01-material/introImg/design01.jpg");
+  }
+
+  .lb02{
+  
+    height:100px;
+    margin:10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("/01-material/introImg/design02.jpg");
+}
+    .lb03{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/01-material/introImg/design03.jpg");
+}
+.lb04{
+
+    height:100px;
+    margin:10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("/01-material/introImg/view01.jpg");
+}
+
+.lb05{
+
+  height:100px;
+  margin:10px;
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url("/01-material/introImg/view02.jpg");
+}
+  .lb06{
+
+  height:100px;
+  margin:10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("/01-material/introImg/view03.jpg");
+}
+.lb07{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/01-material/introImg/view04.jpg");
+  }
+  .lb08{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/01-material/introImg/warframe01.jpg");
+  }
+  .lb09{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/01-material/introImg/warframe02.jpg");
+  }
+  .lb10{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/01-material/introImg/warframe03.jpg");
+  }
+  .lb11{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/01-material/introImg/warframe04.jpg");
+  }
+  .lb12{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/01-material/introImg/warframe05.jpg");
+  }
+
+
+//第三頁
+  .imgtext{
+      position: relative;
+  }
+
+  .imgtextbox{
+    position:absolute;
+    top:10%;
+    right:15%;
+    text-align: left;
+    float:right;
+    width:350px;
+    color:white;
+    font-size:14px;
+    line-height: 20px;
+  }
+
+  .gamedesigner{
+      width: 300px;
+      height: 270px;
+      background-position: top;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-image: url("/01-material/gamedesigner.jpg");
+  }
+  .textbox{
+      width: 100%;
+    .black{
+        background-color: black;
+    }
+
+  }
+  //第四頁
+.Platinum{
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-image: url("/01-material/PlatinumLarge.png");
+}
+.videobox{
+    width:720px;
+    height:480px;
+}
+.blankbox{
+    width:100%;
+    height: 10%;
+}
+.butt{
+    margin-left:15px;
+}
+.imgtextbox2{
+    position:absolute;
+    bottom:10%;
+    left:80%;
+    text-align: left;
+    float:right;
+    width:350px;
+    color:white;
+    font-size:14px;
+    line-height: 20px;
+  }
+
+  //footer
+ 
+  .footer{
+    background-color: white;
+    padding-left: 1%;
+    width:100%;
+  }
+  .footerSocial{
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .footerSocial a{
+    display: inline-block;
+    margin-right: 7px;
+    margin-top: 5px;
+  }
+
+    .icons-fb{
+    background-repeat: no-repeat;
+    background-image: url("/01-material/footerIcon/fb.png");
+    background-position: 0 0;
+    height: 34px;
+    width: 34px;
+    }
+
+    .icons-twitter{
+    background-repeat: no-repeat;
+    background-image: url("/01-material/footerIcon/fb.png");
+    background-position: 0 -136px;    
+    height: 34px;
+    width: 34px;
+    }
+
+    .icons-yt{
+    background-repeat: no-repeat;
+    background-image: url("/01-material/footerIcon/fb.png");
+    background-position: 0 -204px;
+    height: 34px;
+    width: 34px;
+    }
+
+    .icons-insta{
+    background-repeat: no-repeat;
+    background-image: url("/01-material/footerIcon/fb.png");
+    background-position: 0 -34px;
+    height: 34px;
+    width: 34px;
+    }
+
+    .icons-twitch{
+    background-repeat: no-repeat;
+    background-image: url("/01-material/footerIcon/fb.png");
+    background-position: 0 -102px;
+    height: 34px;
+    width: 34px;
+    }
+
+    .icons-insta{
+    background-repeat: no-repeat;
+    background-image: url("/01-material/footerIcon/fb.png");
+    background-position: 0 -68px;
+    height: 34px;
+    width: 34px;
+    }
+
+    .color a{
+        color:gray;
+    }
